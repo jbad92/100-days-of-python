@@ -26,6 +26,3 @@ print('Hello'[-1])
 
 True
 False
-
-
-
